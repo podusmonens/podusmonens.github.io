@@ -72,7 +72,9 @@ h1, h2, h3, h4, h5, h6 {
  * Center the page content.
  */
 
-.fa{font-size:1.5em !important;}
+.fa{font-size:1.5em !important;
+padding-right: 5px !important;
+}
 .twitter{list-style-type:none;}
 .head-name {font-weight: bold;
   font-size: 1.5em;}
