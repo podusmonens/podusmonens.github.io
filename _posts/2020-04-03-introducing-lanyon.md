@@ -1,38 +1,15 @@
 ---
 layout: post
-title: Introducing Lanyon
+title: Some thoughts on the similarity between LIS and philosophy
+published: true
 ---
+An oft quoted phrase on the similarity between LIS and philosophy is from a paper by the late philosopher Abraham Kaplan:
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+“Like your profession, mine also has thrust upon it, as its appropriate domain, the whole of knowledge, the whole of culture; nothing is supposed to be foreign to us, and we ought to be prepared under suitable circumstances to be helpful with regard to any and every area of human concern. Like you, we cannot even begin to occupy ourselves with the substance and content of this endless domain, but only with its form, with its structure, with its order, with the inter-relations of the various parts.”
 
-### Built on Poole
+Floridi (2002) dismissed this as being “unsatisfactory because too vague”, adding that while LIS and philosophy do share an encyclopaedic scope, this is also true of philosophy and science in general, which both encompass a large variety of disciplines. I think this misses Kaplan’s point. It is certainly true that science and philosophy share an encyclopaedic scope, but the point I take Kaplan to be making is that LIS is unique among the sciences in that it has an encyclopaedic scope in and of itself. This is not true of many other sciences. Consider, for example, physics and biology. It would be unreasonable to expect a physicist to explain protein translation as this falls outside the scope of the domain of knowledge in which they are expected to be competent; however, it would be reasonable to ask a librarian or information professional how to find resources that explain protein translation.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
+Of course, despite their shared encyclopaedic scope, the questions dealt with in each field respectively are of different kinds. A philosopher of biology might be concerned with conceptual problems as they arise in biology and may even work with a biologist in attempting to answer these questions, but would not necessarily have the same level of understanding as the biologist. Similarly, someone working in LIS, whether as a researcher or a practitioner (i.e. librarian, information specialist, etc.) or indeed both, would not necessarily have in-depth knowledge of biology but may be equipped to assist researchers in the field with anything from literature searching to bibliographic analysis.
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Both LIS and philosophy work at different levels of abstraction. Philosophy works at a lower level, clarifying fine details and uncovering hidden presuppositions, while LIS works at a higher level, systematically keeping track of, mapping out and ordering the domain of recorded knowledge (or knowledge claims) in order to enable the effective orienting of people to particular ideas, something which Nitecki (1993) likened to “intellectual cartography”. These brief descriptions of philosophy and LIS are obviously incomplete as both are about so much more, but they do serve to highlight the similarities between the two. Kaplan claimed that “the role of philosophy is […] to hold the mirror up to nature.”. When this mirror is held up it increasingly reflects back, in varying levels of clarity, an enormous amount of information. This only broadens the encyclopaedic scope of LIS and makes the need to carry out this intellectual cartography all the more prescient.
 
-### Lanyon features
-
-In addition to the features of Poole, Lanyon adds the following:
-
-* Toggleable sliding sidebar (built with only CSS) via **☰** link in top corner
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/lanyon#themes), available via `<body>` classes
-
-[Head to the readme](https://github.com/poole/lanyon#readme) to learn more.
-
-### Browser support
-
-Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Download
-
-Lanyon is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/lanyon">GitHub repository</a> for downloads, bug reports, and features requests.
-
-Thanks!
