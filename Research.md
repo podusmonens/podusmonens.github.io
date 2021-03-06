@@ -31,12 +31,3 @@ As well as focussing on the metatheoretical issues relating to PI and LIS, one o
 Floridi, L. (2002). On defining library and information science as applied philosophy of information. _Social Epistemology_,16(1), 37-49.
 
 Kuhn, T. (1996). _The structure of scientific revolutions_ (3rd ed.). Chicago ; London: University of Chicago Press.
-
-PhD Candidate, Library and Information Science, City, University of London, 2019-
-**Provisional thesis title: The Philosophical and Practical Implications of adopting Philosophy of Information as a Conceptual Foundation for Library and Information Science**
-
-MSc Library and Information Management (Commendation), Northumbria University, 2017
-**Dissertation:** A Philosophical Investigation into the Foundations of Information Science
-
-MA (Hons) Philosophy with Honours of the First Class, University of Glasgow, 2013
-**Dissertation:** A Tension in Moral Conservationism
