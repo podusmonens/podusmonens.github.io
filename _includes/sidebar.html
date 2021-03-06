@@ -26,16 +26,13 @@
       {% endif %}
     {% endfor %}
 
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
-    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+
     <span class="sidebar-nav-item">{% for post in site.posts limit:5 %}  
   <li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>  
 {% endfor %}  </span>
   </nav>
 
   <div class="sidebar-item">
-    <p>
-      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
-    </p>
+ 
   </div>
 </div>
