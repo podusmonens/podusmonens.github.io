@@ -31,7 +31,7 @@
     <span class="sidebar-nav-item">
       <p class="recent-posts">Recent Posts</p>
       {% for post in site.posts limit:5 %}  
-      <ul><li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li></ul>
+      <ul class="sidebar-ul"><li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li></ul>
 {% endfor %}  </span>
   </nav>
 
