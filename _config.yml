@@ -4,7 +4,7 @@ tagline:             ''
 description:         'Doctoral researcher looking at philosophy of information and LIS at City, University of London, Department of Library and Information Science.'
 url:                 https://podusmonens.github.io/
 baseurl:             ''
-paginate:            3
+paginate:            2
 permalink:           pretty
 
 # About/contact
