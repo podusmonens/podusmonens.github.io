@@ -171,7 +171,9 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.sidebar-ul {list-style-type: none;}
+.sidebar-ul {list-style-type: none;
+padding: 10px;
+}
 
 /* Sidebar content */
 .sidebar a {
