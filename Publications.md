@@ -1,33 +1,13 @@
 ---
 layout: page
-title: Research
+title: Publications
 order: 1
+published: true
 ---
-My doctoral research re-examines the foundationalist debate in library and information science, focusing on Floridi&#39;s (2002) claim that philosophy of information (PI) can provide the most appropriate conceptual foundation for LIS, as well as his further claimed that LIS can be defined as applied PI.
+**Information and design: book symposium on Luciano Floridi's** **_The Logic of Information_**
 
-The research is focused on answering three main questions, each with a number of related sub-questions:
+The purpose of this paper is to review and discuss Luciano Floridi&#39;s 2019 book The Logic of Information: A Theory of Philosophy as Conceptual Design, the latest instalment in his philosophy of information (PI) tetralogy, particularly with respect to its implications for library and information studies (LIS). Nine scholars with research interests in philosophy and LIS read and responded to the book, raising critical and heuristic questions in the spirit of scholarly dialogue. Floridi responded to these questions.
 
-**What is the nature and status of LIS?**
+Recommended citation: Gorichanaz, T., Furner, J., Ma, L., Bawden, D., Robinson, L., Dixon, D., Herold, K., Søe, S.O., Van der Veer Martens, B. and Floridi, L. (2020), &quot;Information and design: book symposium on Luciano Floridi's _The Logic of Information_&quot;, _Journal of Documentation_, Vol. 76 No. 2, pp. 586-616. [https://doi.org/10.1108/JD-10-2019-0200](https://doi.org/10.1108/JD-10-2019-0200)
 
-- Is there an important distinction between library science (or librarianship) and information science?
-- What would be the main benefit of establishing a philosophical foundation for LIS?
-- Can it be argued that the lack of consensus within LIS at the conceptual level is evidence that it is an immature, or pre-paradigmatic science as defined by Kuhn (1996)?
 
-**What is the philosophy of information?**
-
-- What are the main questions PI seeks to answer and how can answering them benefit LIS?
-- Floridi (2011) claims that the main method of PI – the method of levels of abstraction (LoA) – can be applied fruitfully to a variety of philosophical issues: what is this method and how can it be applied to philosophical issues as they arise within LIS?
-- Is Floridi&#39;s (2002) claim that LIS can be defined as applied PI tenable?
-
-**What does it mean for philosophy to be applied?**
-
-- What is the relationship between science and philosophy and how do their methodologies differ?
-- Is there an inherent tension in viewing LIS as a science and viewing it as an applied philosophy?
-
-As well as focussing on the metatheoretical issues relating to PI and LIS, one of the main aims of my research is to investigate the practical implications for LIS of adopting philosophy of information as a conceptual foundation and thus to demonstrate the impact of clarifying these philosophical and conceptual issues to LIS researchers, librarians and information professionals.
-
-**References**
-
-Floridi, L. (2002). On defining library and information science as applied philosophy of information. _Social Epistemology_,16(1), 37-49.
-
-Kuhn, T. (1996). _The structure of scientific revolutions_ (3rd ed.). Chicago ; London: University of Chicago Press.
