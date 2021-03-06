@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academic CV
+title: Talks
 order: 2
 ---
 
