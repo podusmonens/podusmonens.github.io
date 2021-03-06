@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why library and information science needs philosophy
+title: From library and information science to philosophy and back
 published: true
 ---
 In a letter to his friend and student, Norman Malcolm, Wittgenstein wrote:
