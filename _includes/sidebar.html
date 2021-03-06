@@ -28,7 +28,9 @@
     {% endfor %}
 
 
-    <span class="sidebar-nav-item">{% for post in site.posts limit:5 %}  
+    <span class="sidebar-nav-item">
+      Recent Posts
+      {% for post in site.posts limit:5 %}  
       <ul><li><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li></ul>
 {% endfor %}  </span>
   </nav>
