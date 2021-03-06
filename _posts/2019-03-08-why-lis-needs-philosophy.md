@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Library and Information Science needs Philosophy
+title: Why library and information science needs philosophy
 published: true
 ---
 The idea that philosophy is of value to science is a contentious issue. Perhaps one of the most widely discussed attacks on philosophy has come from the late Stephen Hawking, who made the bold claim that &#39;…philosophy is dead&#39; (2010, p.5). Hawking argued that it is impossible to answer fundamental questions regarding the nature of the universe without scientific data, such as that gathered from the Large Hadron Collider and from space research in general. While the traditional questions of philosophy, such as &#39;why are we here?&#39; and &#39;where do we come from?&#39;, he argued, are things most people sometimes wonder, these questions cannot be answered by philosophy as it has not kept up with developments in modern science. Hawking also makes the further claim that the influence philosophers have had has been limited and that their preoccupation with such issues as the problem of induction has made them obstacles to progress (Warman, 2017).
