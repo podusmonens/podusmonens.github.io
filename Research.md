@@ -33,10 +33,10 @@ Floridi, L. (2002). On defining library and information science as applied philo
 Kuhn, T. (1996). _The structure of scientific revolutions_ (3rd ed.). Chicago ; London: University of Chicago Press.
 
 PhD Candidate, Library and Information Science, City, University of London, 2019-
-**Provisional thesis title: ** _The Philosophical and Practical Implications of adopting Philosophy of Information as a Conceptual Foundation for Library and Information Science_
+**Provisional thesis title: The Philosophical and Practical Implications of adopting Philosophy of Information as a Conceptual Foundation for Library and Information Science**
 
 MSc Library and Information Management (Commendation), Northumbria University, 2017
-**Dissertation:** _ A Philosophical Investigation into the Foundations of Information Science_
+**Dissertation:** A Philosophical Investigation into the Foundations of Information Science
 
 MA (Hons) Philosophy with Honours of the First Class, University of Glasgow, 2013
-**Dissertation: ** _A Tension in Moral Conservationism_
+**Dissertation:** A Tension in Moral Conservationism
