@@ -1,122 +1,64 @@
 ---
 layout: post
-title: Example content
+title: 'Social epistemology and LIS: a short overview'
+published: true
 ---
+Social epistemology (SE) can be loosely considered the philosophical study of knowledge from a social perspective. This contrasts with what one might call classical epistemology which has been primarily concerned with knowledge from the individualist perspective. The first use of the term social epistemology came from within library and information science itself, with Jess Shera and Margaret Egan (1952) defining it as &#39;the study of those processes by which society as a whole seeks to achieve a perceptive or understanding relation to the total environment—physical, psychological, and intellectual&#39; and noting that it would lift &#39;the discipline [of epistemology] from the intellectual life of the individual to that of the society, nation, or culture&#39;. Shera and Egan saw SE as a necessary development in epistemology given the increasing complexity of social structures and institutions. This is illustrated by way of analogy with economics, which they noted has moved from the micro to the macro perspective as the satisfaction of human means became delocalised and the need arose for a more systematic study of economic processes.
 
+Shera and Egan saw SE not only as a necessary development in epistemology but as a new intellectual discipline that could provide a foundation for library and information science. They saw this new discipline as providing a theoretical framework for the study of the intellectual processes of society underpinned by a sound research methodology. One main area of research for SE outlined by Shera and Egan is what they call _situational analysis, _which they note would answer questions such as &#39;What information or knowledge is required when a business enterprise or commercial undertaking proposes to open a new market? What information or knowledge should be available when a legislative body is considering a new or revised tax law? What information or knowledge is essential to a chemical industry that is developing a new synthetic fiber?&#39; (1952, p.135.) This seems to amount to research into the information needs of specific user groups; thus, it is arguable that an SE-like research program has been going on within LIS for quite some time, despite the fact that many of those carrying out this research might not necessarily recognise what they are doing as SE.
 
-<div class="message">
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-</div>
+As Budd (2002) has noted, Shera&#39;s approach to SE is not so much philosophical but rather sociological. That is, he focuses more on providing a sociology of knowledge than on defining what social epistemology is and giving a framework for how it can be applied. This approach is problematic in that if he is to claim SE is the proper foundation for LIS then it must be more than simply a study of knowledge from a sociological perspective, as this would be a foundation with a very limited scope if a foundation at all. Shera stated that a foundation for LIS must take into account both how man knows (individual cognition) and how society knows (social cognition). The former, how man knows, is covered by traditional epistemology, while the latter falls within the scope of SE. Thus, to fully understand SE, it is necessary to ask what is social cognition? Shera describes this as &#39;how society knows, and the nature of the socio-psychological system by means of which personal knowledge becomes social knowledge, i.e. the knowledge possessed by a society&#39; (1961, p.89).
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+This reveals a tension between describing social cognition in terms of how society – considered as an entity in and of itself – knows and describing it in terms of the processes by which personal knowledge becomes societal knowledge. If the former, then the problem of how society knows would collapse into the problem of how man knows (individual cognition). The knowledge possessed by society could be considered the aggregate of the knowledge possessed by its individuals. Thus, the latter would be a more plausible project to investigate. Shera does later stress that the &#39;Librarian can carry out his social responsibilities with maximum effectiveness only when he understands the cognitive processes of society and can translate that understanding into service&#39; (1961, p.90). This would suggest he put a high level of importance on the latter part of the definition of social cognition – this would, perhaps, be a more fruitful approach for SE in relation to LIS (something I will investigate in detail at a later stage of my research).
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+While similarly motivated, more modern variants of SE – such as that expounded by Goldman (1999) and later developed in relation to LIS by Budd (2004) – tend to focus on the evaluation of social processes in relation to their contribution to knowledge acquisition. Budd credits Shera as having first put forward SE but notes that his attempt to argue for it was not particularly clear in that it lacked a conception of what exactly SE is, instead focusing more on give a sociological account of the social aspects of knowledge. Budd refers to this approach to establish SE as &#39;rather postmodern&#39; (2004, p.362) However, rather than being purely critical, Budd seeks to give his own account of what SE is, first turning to look at epistemology in general. In traditional epistemology, Budd notes, knowledge has typically been defined as justified true belief (ibid). The idea being that for any belief held by an individual to count as knowledge, it must be the case that the belief is actually true and that the individual is justified in believing it is true. In other words, if one&#39;s belief that milk is in the fridge is to count as true, there must actually be milk in the fridge, and one must have directly verified this by looking inside the fridge and seeing the milk. It is in the seeking of justification for knowledge claims that, for Budd, the need for social epistemology becomes apparent.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Budd notes that social epistemology resides in the &#39;system of production, dissemination, reception, and assessment of knowledge&#39; (2004, p.362). He notes that this system is intrinsically focused on the collective rather than the individual. He gives the example of scientific communication, noting that it is impossible for any one individual scientist to step outside of this system and continue to do science.  This thought can be illuminated by considering Wittgenstein&#39;s idea that the meaning of utterances lies in their use and acceptance within the linguistic community in which they are spoken, thus language considered in isolation lacks meaning. Similarly, the scientist&#39;s work, taking place outside of the scientific community, would be rendered meaningless as an intrinsic part of science is that it takes part within a collective framework that is universally accepted within the scientific community.
 
-## Inline HTML elements
+With regard to libraries, for Budd, they are a necessary part of the aforementioned system, with aims and objectives that are focused on both individual and collective outcomes. Budd notes that if we are to accept social epistemology as the foundation for LIS, then it follows that &#39;[…] the academic library exists to make manifest and tangible the products of social processes aimed at putting us on the path to knowledge&#39; (2004, p.364). What this means is that one of the main goals of academic libraries, with SE as a philosophical foundation, would be to provide reliable processes by which knowledge can be acquired and evaluated, both from the individual and collection viewpoint. Budd suggests that, for the library, these processes are veritism and reliabilism.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+**Veritism**
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Veritism, for which Budd follows Goldman (1999), is focused on the efficacy of social practices in contributing to the production of true beliefs. It can be likened to consequentialism in ethics, whereby an action is judged solely on its consequences, i.e. an action has moral value if and only if it produces a positive outcome. Similarly, under veritism, a social practice would be described as having epistemic value if and only if it resulted mostly in the production of true beliefs. For Goldman, veritistic social epistemology (VSE) is a normative project. That is, rather than simply seeking to describe social practices in relation to knowledge, it seeks to evaluate them based on what he refers to as &#39;knowledge consequences&#39; (Budd, 2004, p.6-7). This project extends to both existing social practices as well as possible future ones, thus it provides a way of evaluating potential social practices for their potential contribution to the goal of advancing human knowledge.
 
-Most of these elements are styled by browsers with few modifications on our part.
+To demonstrate the Library&#39;s role as part of a social practice in contributing to the production of true beliefs, Budd gives the example of a student evaluating a proposition. He notes that first, they would develop a belief in this proposition, then they would apply rational scepticism to evaluate this belief, which then might lead them to the library where they would seek evaluations, critiques, and counter-arguments for the proposition. Budd admits here that given the fallibility of the individual, the library cannot provide a process which necessarily leads to the production of true beliefs, i.e. the individual might fail to carry out a wide enough search and thus miss out key arguments against the particular proposition they are evaluating. This leads him to the second of the two processes, reliabilism (2004, p.364).
 
-## Heading
+**Reliabilism**
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Reliabilism refers to the position in epistemology, rather than the everyday concept of reliability. While there are a number of different kinds of reliabilism, Budd follows the definition put forward by Alvin Goldman, which states that a belief counts as knowledge if and only if it is true and it is justified by a reliable process (Goldman and Beddor, 2017).  Reliabilism, in general, can be seen as a response to so-called Gettier problems for the traditional theory of knowledge as justified true belief (JTB). Gettier (1963) noted in his famous paper I_s Justified True Belief Knowledge?_ that it is possible to have cases where someone is justified in having a belief without it being the case that the belief is actually true. For example, consider a case where someone is walking in the desert and sees ahead of them what they think is water, but in fact, it is a mirage. However, on reaching the spot they discover there is actually some water under a rock. This would seem to be a case where under JTB, the belief would be justified since there actually was water, but intuitively we would not want to accept that the person had knowledge there was water. In other words, the justification condition fails (Jenkins and Steup, 2017). Thus, the reliabilist attempts to strengthen the concept of justification by specifying not only that a belief should be justified but that it is must be justified by a reliable process. For Budd, this reliabilist approach essentially provides a way of fine-tuning the library&#39;s contribution to the process of knowledge acquisition. With veritism as a foundation, and a reliable set of tools and sources for the user to maximize true beliefs, the library would be more likely to achieve its overall aims and objectives (2004, p.364).
 
-### Code
+Budd lends weight to his argument for VSE as a foundation for LIS by way of a number of practical examples. He notes that specific objectives for the library can be integrated in collection management, information literacy and in information services in general. For collection management, he notes, a VSE approach would lead to a more critical assessment of materials to be acquired or presented to the user. In information literacy, VSE a greater understanding of concepts such as testimony, expertise, evidence and corroboration could become more integrated into programs aimed at reaching all students. In information services in general, professional interactions could become more focused on the critical appraisal of information (2004, p.366).
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+**Some problems with social epistemology**
 
-{% highlight js %}
-// Example can be run directly in your JavaScript console
+While Budd&#39;s approach to social epistemology certainly has clear benefits – it can&#39;t hurt for libraries to be more focused on making sure their approach to both facilitating and providing sources for knowledge acquisition are fine-tuned for maximum efficacy – a philosophical foundation solely grounded in epistemology, whether from an individual or social perspective, would be too limited in scope. For example, the philosophy of mathematics considers ontological, epistemic and aesthetic questions regarding mathematics. A similar point has been made by Floridi (2002), who noted that &quot;To focus only on knowledge—whether to assess or criticize its possibility and nature—introduces an epistemological bias inconsistent with the real nature of LIS&quot;.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+McDowell (2002) has argued, on similar lines, that SE, VSE in particular, fails to take into account non-epistemic factors but argues not that these are outside the scope of VSE but rather that they are an intrinsic part of VSE which should not be overlooked. What is being argued is that the failure to take into account these non-epistemic factors shows that SE is insufficient as a foundation for LIS. McDowell argues that moral issues relating to information should also be considered alongside epistemic ones. In particular, she focuses on what she calls &quot;social trust&quot;. The idea is that given SE&#39;s focus specifically on _social_ factors relevant to knowledge acquisition, it is important that it also considers moral issues, such as trust, which can affect the willingness of individuals to engage with information services to evaluate and acquire knowledge. For McDowell, SE in general is too focused on epistemic factors with potentially damaging effects. For example, she notes that social epistemologists often consider that &#39;if people are making decisions about what sources to consult for information, only those decisions made for overtly epistemic reasons are relevant and evaluable&#39; (2002, p. 52).
 
-// Call the function
-adder(2, 6);
-// > 8
-{% endhighlight %}
+To illustrate this, consider a student seeking articles in a library discovery tool. It might be thought that their only consideration in evaluating any articles retrieved would be things like the track record of the author, or whether it was peer-reviewed. However, while there is an element of trust involved here – i.e. trust in the epistemic character of the author or publisher – what McDowell argues is that there is also a wider element of social trust, for example, trust in the moral character of the institution. If the student does not trust the institution from a moral perspective for whatever reason, this may have an impact on their epistemic evaluation of the information. In other words, while social trust and epistemic trust can be pulled apart, the former can have a direct effect on the latter and thus, if, as SE claims, the final consideration should be the effect on knowledge acquisition, these non-epistemic issues must be considered, otherwise it is unlikely that SE will be able to achieve its goal.
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+As noted above, VSE is analogous to consequentialist ethics. A common argument against consequentialism is that it leads to the situation where actions which we would normally deem morally wrong can end up being considered good as long as they produce a good outcome. For example, if all that matters are the consequences of action then killing an innocent person to save a number of lives could be justified. This is because the consequences would be a greater increase in overall moral goodness. Foot (1967) has illustrated this with a thought experiment which has become known as the trolley problem. In this thought experiment, we are asked to consider a situation in which a runaway trolley is on some train track heading towards five people who are tied up and unable to move. In this situation, we have the option of pulling a lever, which would send the train down another track where there is only one person. Pulling the lever saves the lives of the five at the expense of killing the one person on the other track. What this thought experiment is supposed to demonstrate, is that under consequentialism, pulling the lever would be the preferred option, giving that it saves the lives of five people, even though intuitively it means we have killed one person. While the debate on the trolley problem is far from settled, it does serve to illustrate that VSE is not unproblematic.
 
-### Lists
+As McDowell (2002) notes, under VSE, where all that matters are the epistemic consequences, it might be epistemically justified to tie someone up and force them to read philosophy texts all day, so long as the outcome would be a net increase in knowledge (p53). While this is an extreme example which obviously (one would hope) is unlikely to ever happen, it does serve to illustrate the point that focusing solely on epistemic consequences can have detrimental effects in other non-epistemic areas. As with the discussion of social trust above, McDowell sees this as a reason to make non-epistemic considerations intrinsic to SE; however, for the reasons discussed above, this is also reason to suggest SE is too limited in scope to serve as a conceptual foundation for LIS.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+To return to Eegan and Shera, approaching the theoretical, foundational elements of LIS from a wider perspective, incorporating consideration of the increasingly more social rather than purely individualist nature of knowledge would be of great instrumental value to LIS. A discipline which is largely concerned with facilitating the acquisition of knowledge needs to understand the processes by which knowledge is acquired whether social or individual.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+**References**
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Budd, J. M. (2002). Jessa Shera, Sociologist of Knowledge?. _The Library Quarterly_, _72_(4), 423-440.
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+Budd, J. M. (2004). Academic libraries and knowledge: A social epistemology framework. _The Journal of Academic Librarianship_, _30_(5), 361-367.
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+Egan, M. E., &amp; Shera, J. H. (1952). Foundations of a theory of bibliography. _The Library Quarterly_, _22_(2), 125-137.
 
-<dl>
-  <dt>HyperText Markup Language (HTML)</dt>
-  <dd>The language used to describe and define the content of a Web page</dd>
+Floridi, L. (2002). On defining library and information science as applied philosophy of information. _Social epistemology_, _16_(1), 37-49.
 
-  <dt>Cascading Style Sheets (CSS)</dt>
-  <dd>Used to describe the appearance of Web content</dd>
+Foot, Philippa (1967). The problem of abortion and the doctrine of double effect. _Oxford Review_, 5:5-15.
 
-  <dt>JavaScript (JS)</dt>
-  <dd>The programming language used to build advanced Web sites and applications</dd>
-</dl>
+Gettier, E. (1963) &quot;Is Justified True Belief Knowledge?&quot;, _Analysis_, 23(6), pp. 121-123. doi: 10.1093/analys/23.6.121.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+Jenkins, J. and Steup, M. (2017) The Analysis of Knowledge (Stanford Encyclopedia of Philosophy), Plato.stanford.edu. Available at: https://plato.stanford.edu/entries/knowledge-analysis (Accessed: 26 August 2017).
 
-### Tables
+McDowell, A. (2002). Trust and information: The role of trust in the social epistemology of information science. _Social Epistemology_, _16_(1), 51-63.
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
------
-
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+Shera, J. H. (1961). What is librarianship. _Louisiana Library Association Bulletin_, _24_(96), 167.
