@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Academic CV
-order: 1
+order: 2
 ---
 
