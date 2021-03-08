@@ -2,8 +2,8 @@
 title:               Dominic Dixon
 tagline:             ''
 description:         'Research librarian at the University of Cambridge | Doctoral researcher at City, University of London. Research interests include philosophy of information, social epistemology and library and information science.'
-
-baseurl:             ''
+baseurl: /PROJECT
+url: https://podusmonens.github.io
 paginate:            2
 permalink:           pretty
 
